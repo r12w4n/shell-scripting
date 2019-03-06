@@ -1,7 +1,6 @@
 #!/bin/bash
 echo "Enter any Number"
 read n 
-
 rem=$(( $n % 2 ))
 
 if [ $rem -eq 0 ]
