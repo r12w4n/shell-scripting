@@ -4,4 +4,4 @@
 
 echo "Your Username: $(echo $USER)"
 echo "Currently Logged in Users"
-who 
+who
