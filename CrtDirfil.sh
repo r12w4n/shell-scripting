@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#CreateDirectory > WriteContentsOnThat > CopyToSuitableLocationInHOme
+# CreateDirectory > WriteContentsOnThat > CopyToSuitableLocationInHOme
 
 mkdir TheemDoc
 cd TheemDoc
